@@ -1,0 +1,202 @@
+{
+    "concerts": [
+        {
+            "id": 1,
+            "title": "2nd Formative Assessment",
+            "imgCard": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LSSKeOYwgUTZfoBqRjbw3KUXIWQohJyxAg&s",
+            "imgCover": "https://www.edmates.com/wp-content/uploads/2022/09/Taylors_Lakeside_Campus.jpg",
+            "date": "6/11/2024",
+            "time": "10:00",
+            "location": "Taylor's University Bizpod",
+            "description": "Second formative assessment for startup for Ticketwave to show the prototype",
+            "price": {
+                "coach": 0.00,
+                "student": 0.00
+            },
+            "contractAddress": "0x1234567890abcdef1234567890abcdef12345678",
+            "venue": {
+                "name": "Bizpod",
+                "address": "Taylor's University Lakeside Campus",
+                "capacity": 20
+            },
+            "artists": [
+                "Mr Vincent Kok"
+            ],
+            "additionalInfo": "Please buy tickets and scan on entry. Entry is free."
+        },
+        {
+            "id": 2,
+            "title": "The Infinite Dream",
+            "imgCard": "/concertCard/baz_con.jpg",
+            "imgCover": "/concertCover/bazzi.jpg",
+            "date": "15/9/2024",
+            "time": "20:00",
+            "location": "Madison Square Garden, New York City, USA",
+            "description": "Join Bazzi on a musical journey through 'The Infinite Dream'. This concert promises an intimate yet energetic experience, showcasing Bazzi's soulful vocals and heartfelt lyrics.",
+            "price": {
+                "vip": 249.99,
+                "standard": 129.99,
+                "economy": 69.99
+            },
+            "contractAddress": "0x2345678901abcdef2345678901abcdef23456789",
+            "venue": {
+                "name": "Madison Square Garden",
+                "address": "4 Pennsylvania Plaza, New York, NY 10001",
+                "capacity": 20000
+            },
+            "artists": [
+                "Bazzi"
+            ],
+            "additionalInfo": "Doors open at 18:30. Meet & Greet packages available for VIP ticket holders."
+        },
+        {
+            "id": 3,
+            "title": "MUSIC of the SPHERES",
+            "imgCard": "/concertCard/coldplay.png",
+            "imgCover": "/concertCover/coldplay.png",
+            "date": "22/10/2024",
+            "time": "19:30",
+            "location": "Wembley Stadium, London, UK",
+            "description": "Coldplay's 'Music of the Spheres' world tour lands in London. Expect a cosmic experience with the band's signature anthems, stunning visuals, and eco-friendly concert innovations.",
+            "price": {
+                "vip": 350.00,
+                "standard": 180.00,
+                "economy": 90.00
+            },
+            "contractAddress": "0x3456789012abcdef3456789012abcdef34567890",
+            "venue": {
+                "name": "Wembley Stadium",
+                "address": "Wembley, London HA9 0WS, United Kingdom",
+                "capacity": 90000
+            },
+            "artists": [
+                "Chris Martin",
+                "Jonny Buckland",
+                "Guy Berryman",
+                "Will Champion"
+            ],
+            "additionalInfo": "This is a sustainable concert. Please bring your own reusable water bottle. Special LED wristbands will be provided."
+        },
+        {
+            "id": 4,
+            "title": "The +–=÷× Dream",
+            "imgCard": "/concertCard/ed_con.jpg",
+            "imgCover": "/concertCover/ed.jpg",
+            "date": "5/11/2024",
+            "time": "19:00",
+            "location": "Etihad Stadium, Melbourne, Australia",
+            "description": "Ed Sheeran brings his mathematical tour to Melbourne. This solo performance showcases Ed's legendary loop pedal skills and heartwarming songs from across his career.",
+            "price": {
+                "vip": 275.00,
+                "standard": 155.00,
+                "economy": 85.00
+            },
+            "contractAddress": "0x4567890123abcdef4567890123abcdef45678901",
+            "venue": {
+                "name": "Etihad Stadium",
+                "address": "740 Bourke St, Docklands VIC 3008, Australia",
+                "capacity": 53359
+            },
+            "artists": [
+                "Ed Sheeran"
+            ],
+            "additionalInfo": "No backpacks allowed. Small bags under 30x30cm permitted. Show includes special effects and strobe lighting."
+        },
+        {
+            "id": 5,
+            "title": "I Met You When I Was 18",
+            "imgCard": "/concertCard/lauv_con.jpg",
+            "imgCover": "/concertCover/lauv.jpg",
+            "date": "18/12/2024",
+            "time": "20:30",
+            "location": "The O2 Arena, London, UK",
+            "description": "Lauv takes fans on a nostalgic journey with 'I Met You When I Was 18'. This concert features his chart-topping hits and new material, promising an emotionally charged night.",
+            "price": {
+                "vip": 199.99,
+                "standard": 119.99,
+                "economy": 59.99
+            },
+            "contractAddress": "0x5678901234abcdef5678901234abcdef56789012",
+            "venue": {
+                "name": "The O2 Arena",
+                "address": "Peninsula Square, London SE10 0DX, United Kingdom",
+                "capacity": 20000
+            },
+            "artists": [
+                "Lauv"
+            ],
+            "additionalInfo": "Special acoustic session included. Early entry for VIP ticket holders at 18:30."
+        },
+        {
+            "id": 6,
+            "title": "Twice Ready To Be Special",
+            "imgCard": "https://tokytunes.com/wp-content/uploads/2024/06/TWICEs-two-day-concert-at-Nissan-Stadium-will-be-broadcast-live.jpg",
+            "imgCover": "https://tokytunes.com/wp-content/uploads/2024/06/TWICEs-two-day-concert-at-Nissan-Stadium-will-be-broadcast-live.jpg",
+            "date": "20/10/2024",
+            "time": "17:00",
+            "location": "Nissan Stadium, Yokohama, Japan",
+            "description": "TWICE presents a special two-day concert extravaganza at Nissan Stadium. This unique event showcases new performances and fan-favorite hits in TWICE's biggest show yet.",
+            "price": {
+                "vip": 399.99,
+                "standard": 199.99,
+                "economy": 99.99
+            },
+            "contractAddress": "0x6789012345abcdef6789012345abcdef67890123",
+            "venue": {
+                "name": "Nissan Stadium",
+                "address": "3300 Kozukue-cho, Kohoku-ku, Yokohama, Kanagawa Prefecture",
+                "capacity": 72327
+            },
+            "artists": [
+                "Nayeon",
+                "Jeongyeon",
+                "Momo",
+                "Sana",
+                "Jihyo",
+                "Mina",
+                "Dahyun",
+                "Chaeyoung",
+                "Tzuyu"
+            ],
+            "additionalInfo": "Two-day event. Tickets valid for both days. Special merchandise available exclusively for ticket holders."
+        },
+        {
+            "id": 8,
+            "title": "Blockchain 101",
+            "imgCard": "/monopoly.jpg",
+            "imgCover": "/monopoly.jpg",
+            "date": "21/12/2024 - 22/12/2024",
+            "time": " 09:00 am (Day 1), 10:00 am (Day 2)",
+            "location": "Taylor's University Lakeside Campus",
+            "description": "This two-day workshop offers participants an engaging introduction to Blockchain technology. On Day 1, participants will learn blockchain concepts by playing a widely known boardgame, followed by an Ideation session where they will brainstorm and explore innovative ways to use blockchain technology. Day 2 focuses on pitching these ideas during the Ideathon Pitching session, followed by a Panel Discussion. The event concludes with the announcement of results and prize distribution with a prizepool of 700 USD. This workshop provides hands-on learning and problem-solving experience in the blockchain space, offering participants the chance to showcase their creativity and win exciting prizes. Day 1 runs from 9:00 AM to 3:00 PM, and Day 2 runs from 10:00 AM to 2:30 PM.",
+            "price": {
+                "Participant": 0.00
+            },
+            "contractAddress": "0x7890123456abcdef7890123456abcdef78901234",
+            "venue": {
+                "name": "Taylor's University Lakeside Campus",
+                "address": "1, Jalan Taylor's, 47500 Subang Jaya, Selangor",
+                "detailedLocation": "Lecture Theatre 27 (LT27)",
+                "parking": "Free open-air parking available behind the university",
+                "howToGetThere": "LT27 is located at Level 1 of Block C. From the parking area, walk to LT1, continue to LT2 and walk straight, and at the first junction turn right to reach LT27."
+            },
+            "organisers": [
+                "Taylor's IET Club",
+                "Taylor Blockchain Club",
+                "TARUMT Blockchain Club"
+            ],
+            "organisersImage": [
+                "/IET.jpg",
+                "/Taylor.jpg",
+                "/TARUMT.png"
+            ],
+            "sponsors": [
+                "Superteam Malaysia"
+            ],
+            "sponsorsImage": [
+                "/superteam.png"
+            ],
+            "additionalInfo": "Enhance your blockchain knowledge through interactive games and workshops, then participate in an Ideathon to develop innovative solutions and pitch your ideas for a brighter digital future! \n\n**Judging Criteria**\n\n1. Problem Statement (15 points)\n\n• Is the problem well-defined?\n\n• Is the problem significant and impactful enough to create a solution?\n\n2. Solution & Innovation (40 points)\n\n• What is the proposed solution?\n\n• Is the solution innovative, creative, and unique?\n\n• Does it stand out from generic or already existing ideas?\n\n3. Business Case (10 points)\n\n• Is there a clear path to monetization or sustainability?\n\n• How viable is the business model in the long term?\n\n4. Technical Feasibility (5 points)\n\n• Does the idea demonstrate technical feasibility?\n\n• Optional: Is there a prototype, such as code or a Figma design?\n\n5. Pitching & Demo (15 points)\n\n• How compelling and clear are the slides and the pitch?\n\n• Does the presentation effectively convey the value of the idea?\n\n6. Why Blockchain? (15 points)\n\n• Does the idea justify using blockchain technology?\n\n• Is blockchain essential to the solution, or is it just an optional add-on?\n\n**Judging Decisions**\n- The judges' decisions are final and binding.\n\n**Prize Distribution per Team**\n- First Place: 140 USD\n- Second Place: 90 USD\n- Third Place: 60 USD\n- 4th to 10th Place: 30 USD each\n- 11th to 20th Place: 20 USD each\n\n**Submission Requirements**\n- Video presentation (3-5 minutes) explaining your solution\n- Pitch deck/slides\n- Optional coding or Figma \n- Dealine to submission for Google Form is 22/12/2024 10:00 a.m.\n- Team Registration Link: [Click here to register your team](https://docs.google.com/forms/d/e/1FAIpQLSeiZqX1Q0q5gp1ivYbksA5pYJVYLeI5UdeeKsAotzRIL7HwPA/viewform)\n- Feedback on using the ticketing platform and the best feedback will win a RM 30 Starbucks gift card: [Submit your feedback](https://docs.google.com/forms/d/e/1FAIpQLSdo9kao2_Ue2WXSH25dXCfMjpcTC2IM7QxwaW1NZwViy90bXg/viewform?usp=dialog)\n- Ideathon Project Submission Link: [Submit your project](https://forms.gle/dPvRV8PTJq3oHxjy8)\n\n**Summary for Participants:**\n- Hands-on Blockchain Workshop with a widely known boardgame\n- Access to expert panel discussion\n- Refreshment provided\n- Ideathon participation with the opportunity to win prizes\n- Certificates for participation\n\n**Expected Outcomes:**\n- Participants will gain a deeper understanding of blockchain technology and its potential applications.\n- Participants will learn to collaborate effectively in teams to create conceptual solutions.\n- Winners will receive prizes based on the creativity and feasibility of their ideas."
+        }
+]
+}
